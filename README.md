@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science undergraduate focused on full stack web development and problem solving. I work primarily with Java, JavaScript, React, and Spring Boot, and I am building projects that demonstrate real backend and frontend integration. My current goal is to strengthen core DSA, backend design, and production level web applications while preparing for internships and entry level software roles.
+I am a Computer Science undergraduate focused on full stack web development and problem solving. I work primarily with Java, JavaScript, MERN , and I am building projects that demonstrate real backend and frontend integration. My current goal is to strengthen core DSA, backend design, and production level web applications while preparing for internships and entry level software roles.
 
 
 ## 🌐 Socials:
