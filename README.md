@@ -8,7 +8,6 @@
 
 <br/>
 
-![GitHub followers](https://img.shields.io/github/followers/HarshadJha?style=flat&color=a78bfa&labelColor=1e1b4b)
 
 </div>
 
@@ -45,9 +44,9 @@ public class Harshad extends Developer {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-jha-a6b691294/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harshadjha9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaharshad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshadJha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harshadjha9)
 
 </div>
 
