@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
 [![Profile Views](https://visitcount.itsvg.in/api?id=HarshadJha&icon=6&color=9)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/HarshadJha?style=flat&color=a78bfa&labelColor=1e1b4b)
 
@@ -49,7 +48,7 @@ public class Harshad extends Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-jha-a6b691294)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harshadjha9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaharshad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/HarshadJha)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshadJha)
 
 </div>
 
@@ -80,7 +79,6 @@ public class Harshad extends Developer {
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -91,20 +89,20 @@ public class Harshad extends Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshadJha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadJha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=HarshadJha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HarshadJha&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=HarshadJha&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=HarshadJha&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshadJha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="95%" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshadJha&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -129,18 +127,6 @@ public class Harshad extends Developer {
 📌  Deploying full stack apps on AWS
 📌  Preparing for internship interviews (SWE / Fullstack)
 ```
-
----
-
-## 💼 Projects
-
-> 🚧 *Projects section coming soon — currently in active development*
-
-| Project | Tech Stack | Status | Link |
-|--------|-----------|--------|------|
-| 🔗 Full Stack Web App | React + Spring Boot + MySQL | 🛠 In Progress | — |
-| 🧠 DSA Practice Tracker | Java | 📦 Planning | — |
-| ☁️ Cloud Deployment Demo | AWS + Node.js | 📦 Planning | — |
 
 ---
 
