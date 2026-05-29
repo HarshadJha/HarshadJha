@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshad%20Jha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Full+Stack+Web+Applications;JavaScript+%7C+%7C+React+%7C+Next.js;DSA+%7C+System+Design+%7C+Backend+Engineering;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Building+Scalable+Full+Stack+Applications;JavaScript+%7C+REST+APIs+%7C+Backend+Development;DSA+%7C+System+Design+%7C+Problem+Solving;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 <br/>
 
