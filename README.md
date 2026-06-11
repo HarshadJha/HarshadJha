@@ -8,9 +8,6 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=HarshadJha&icon=6&color=9)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/HarshadJha?style=flat&color=a78bfa&labelColor=1e1b4b)
-
 </div>
 
 ---
@@ -40,7 +37,7 @@ public class Harshad extends Developer {
 - 🤖 Experienced with **YOLOv8, PyTorch, OpenCV** for real-world vision systems
 - 💡 Strong in **DSA** — 100+ LeetCode problems, 50+ on GeeksforGeeks
 - 🔐 Worked with **encryption, DPI, and offline peer-to-peer** architectures
-- 📬 Reach me at **jhaharshad@gmail.com** · **+91-9315496629**
+- 📬 Reach me at **jhaharshad@gmail.com** 
 
 ---
 
